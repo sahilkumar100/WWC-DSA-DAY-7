@@ -10,7 +10,7 @@ int main(){
 
     for(int i=0; i<size; i++){
         if(nums[i]<smallest){
-            smallest = nums[i];
+            smallest = nums[i]; 
 
         }
         if(nums[i]>largest){
